@@ -1,9 +1,13 @@
 **WORK IN PROGRESS**
 
-<p align="center">
-    🪶<br></br>
-  # React Native Feather
-</p>
+   <h1 align="center">
+ 
+    🪶
+</h1>
+<h1 align="center">
+ 
+  React Native Feather
+</h1>
 
 Lightweight, batteries-included starter template for React-Native iOS & Android Apps.
 
