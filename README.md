@@ -2,7 +2,7 @@
 
 <p align="center">
     🪶<br></br>
-  React Native Feather
+  # React Native Feather
 </p>
 
 Lightweight, batteries-included starter template for React-Native iOS & Android Apps.
