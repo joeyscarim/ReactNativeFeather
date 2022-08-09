@@ -1,17 +1,27 @@
-**WORK IN PROGRESS**
-
-   <h1 align="center">
+   <!-- <h1 align="center">
  
     🪶
-</h1>
-<h1 align="center">
- 
+</h1> -->
+<h4 align="center">
+<br>
+ 🪶<br>
   React Native Feather
-</h1>
+  <br><br>
+</h4>
 
-Lightweight, batteries-included starter template for React-Native iOS & Android Apps.
+<!-- <br> -->
 
-## Features
+> Lightweight, batteries-included starter template for React-Native iOS & Android Apps.
+
+<br>
+
+#### 🚨 Note
+
+This project is a work in progress and a lot of the listed features are not built yet.
+
+<br>
+
+#### Features
 
 - ⛳️ Full tailwind styling support
 - 👯‍♀️ Full typescript support
@@ -19,7 +29,9 @@ Lightweight, batteries-included starter template for React-Native iOS & Android 
 - 👤 Ready to use "useAuth" hook
 - 🚪 Signin flow and protected routes
 
-## Key Packages
+<br>
+
+#### Key Packages
 
 - **react-navigation** for navigation
 - **twrnc** for native Tailwind styling
@@ -30,4 +42,8 @@ Lightweight, batteries-included starter template for React-Native iOS & Android 
 - **react-native-mkkv** for encrypted, local storage
 - **react-native-modal** for modals
 
-## How to use
+<br>
+
+#### How to use
+
+- Coming soon
