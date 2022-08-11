@@ -3,10 +3,7 @@ import React from 'react';
 import {Controller} from 'react-hook-form';
 import {TextInput} from 'react-native';
 
-export const FormInput = ({control, style, name}) => {
-  // <Controller
-  // <TextInput
-
+export const FormButton = ({control, style, name}) => {
   return (
     <Controller
       control={control}

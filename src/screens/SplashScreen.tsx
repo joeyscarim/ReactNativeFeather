@@ -1,5 +1,5 @@
 import * as React from 'react';
-import {Text, View, Button, TextInput, ActivityIndicator} from 'react-native';
+import {View, ActivityIndicator} from 'react-native';
 import tw from 'twrnc';
 
 export function SplashScreen({}) {
